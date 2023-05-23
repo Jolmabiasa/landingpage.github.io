@@ -1,0 +1,614 @@
+.header {
+    background-color: #D7F5DC;
+}
+
+.part {
+    background-color: #D7F5DC;
+    bottom: 30px;
+    /* margin-right0px */
+    width: 190%
+}
+
+.logo {
+    padding-left: 60px;
+}
+
+.submit {
+    background-color: #20B15A;
+    border: none;
+    border-radius: 9px;
+    cursor: pointer;
+    margin-left: 20px;
+}
+
+.login {
+    border: 1px solid #20B15A;
+    border-radius: 9px;
+    cursor: pointer;
+    margin-left: 20px;
+    height: 40px
+}
+
+@import url('https: //fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+.one {
+    font-family: 'Poppins', sans-serif;
+    color: #000000;
+    font-weight: bolder;
+    font-size: 40px;
+}
+
+@font-face {
+    font-family: "Avenir Medium";
+    src: url('Avenir Medium.ttf');
+}
+
+.four {
+    margin-top: 8px;
+    font-family: "Avenir Medium";
+    font-size: 16px;
+    line-height: 16px;
+    margin-left: 4px;
+    font-weight: 20px;
+}
+
+.one {
+    margin-left: 147px;
+    margin-top: 76px;
+    Line-height: 120%;
+}
+
+.twoo {
+    /* padding-right: 30px; */
+    font-weight: bolder;
+    font-size: 13px;
+}
+
+.three {
+    /* padding-right: 63px; */
+    font-weight: bolder;
+    font-size: 13px;
+}
+
+.Oke {
+    height: 92%
+}
+
+.get {
+    background-color: #20B15A;
+    width: 120px;
+    border-radius: 10px;
+    margin-left: 0px;
+}
+
+.started {
+    border: none;
+    cursor: pointer;
+    margin-top: 40px;
+    margin-bottom: 10px;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    margin-left: 2px;
+}
+
+.parnerts {
+    width: 100%;
+    margin-right: -80px
+}
+
+.text-center {
+    background-color: #F8FFF9;
+    margin-top: -64px;
+}
+
+.color {
+    background-color: #D7F5DC;
+}
+
+.color2 {
+    color: #D7F5DC;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+.we-do {
+    font-family: 'Poppins', sans-serif;
+    color: #000000;
+    font-weight: bolder;
+    font-size: 15px;
+    Line-height: 40px;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+.we-do .wedo {
+    font-family: 'Poppins', sans-serif;
+    color: #20B15A !important;
+    text-decoration: none;
+    font-weight: bolder;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+.business {
+    font-family: 'Poppins', sans-serif;
+    color: #000000;
+    font-size: 22px;
+    font-weight: bolder;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+.provide {
+    font-family: 'Poppins', sans-serif;
+    color: #000000;
+    font-size: 22px;
+    font-weight: bolder;
+}
+
+.ser-vice {
+    padding-top: 25px;
+}
+
+.service {
+    padding-left: 159px;
+}
+
+.activity {
+    width: 70px;
+    height: 70px;
+    margin-right: 70px
+}
+
+.hearth {
+    width: 70px;
+    height: 70px;
+    margin-right: 130px
+}
+
+.work {
+    width: 70px;
+    height: 70px;
+    margin-right: 200px
+}
+
+.product {
+    margin-top: 50px;
+    background-color: hsl(129, 100%, 99%);
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+.grow {
+    font-family: 'Poppins', sans-serif;
+    color: #000000;
+    font-size: 16px;
+    font-weight: bolder;
+    margin-left: 20px;
+    margin-top: 12px;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+.brand {
+    font-family: 'Poppins', sans-serif;
+    color: #000000;
+    font-size: 16px;
+    font-weight: bolder;
+    margin-left: -14px;
+    margin-top: 12px;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+.model {
+    font-family: 'Poppins', sans-serif;
+    color: #000000;
+    font-size: 16px;
+    font-weight: bolder;
+    margin-left: -74px;
+    margin-top: 12px;
+}
+
+@font-face {
+    font-family: "Avenir Medium";
+    src: url('Avenir Medium.ttf');
+}
+
+.help {
+    margin-top: 10px;
+    font-family: "Avenir Medium";
+    font-size: 11px;
+    margin-left: 30px;
+    font-weight: bold;
+}
+
+.best {
+    margin-bottom: 13px;
+    margin-right: 25px;
+    font-family: "Avenir Medium";
+    font-size: 11px;
+    font-weight: bold;
+}
+
+.identify {
+    margin-top: 10px;
+    margin-right: 25px;
+    font-family: "Avenir Medium";
+    font-size: 11px;
+    font-weight: bold;
+}
+
+.improve {
+    margin-bottom: 13px;
+    margin-right: 80px;
+    font-family: "Avenir Medium";
+    font-size: 11px;
+    font-weight: bold;
+}
+
+.ways {
+    margin-top: 10px;
+    margin-right: 102px;
+    font-family: "Avenir Medium";
+    font-size: 11px;
+    font-weight: bold;
+}
+
+.your {
+    margin-bottom: 13px;
+    margin-right: 158px;
+    font-family: "Avenir Medium";
+    font-style: "roman";
+    font-size: 11px;
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: "Poppins-Bold";
+    src: url('Poppins-Bold.ttf');
+}
+
+.rating {
+    margin-top: 35px;
+    padding-bottom: 63px;
+    background-color: #F8FFF9;
+}
+
+.completed {
+    margin-bottom: 12px;
+    font-family: "Poppins-Bold";
+    font-size: 11px;
+    font-weight: bold;
+}
+
+.customer {
+    margin-bottom: 13px;
+    font-family: "Poppins-Bold";
+    font-size: 11px;
+    font-weight: bold;
+}
+
+.raise {
+    margin-bottom: 12px;
+    font-family: "Poppins-Bold";
+    font-size: 11px;
+    font-weight: bold;
+}
+
+.year {
+    margin-bottom: 13px;
+    font-family: "Poppins-Bold";
+    font-size: 11px;
+    font-weight: bold;
+}
+
+.value {
+    color: #20B15A;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.portofolio {
+    padding-left: 159px;
+    margin-bottom: 100px;
+}
+
+.imgfolio {
+    background-color: #FFFFFF;
+    padding-left: 53px;
+    padding-top: 25px;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+.testimonial {
+    font-family: 'Poppins', sans-serif;
+    color: #20B15A;
+    font-weight: bolder;
+    font-size: 15px;
+    Line-height: 40px;
+    margin-bottom: 1px;
+    margin-left: 115px;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+.say {
+    font-family: 'Poppins', sans-serif;
+    color: #000000;
+    font-size: 22px;
+    font-weight: bolder;
+    margin-left: 125px;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+.see {
+    font-family: 'Poppins', sans-serif;
+    color: #000000;
+    font-size: 22px;
+    font-weight: bolder;
+    margin-left: 125px;
+}
+
+.btn-prev,
+.btn-next {
+    background-color: #fff;
+    border-radius: 50%;
+    border: 1;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    color: #333;
+    cursor: pointer;
+    font-size: 20px;
+    height: 40px;
+    margin: 0 10px;
+    width: 40px;
+}
+
+.btn-prev:hover,
+.btn-next:hover {
+    background-color: #D7F5DC;
+    border: none;
+}
+
+.btn-prev:focus,
+.btn-next:focus {
+    outline: none;
+}
+
+.fa-arrow-left,
+.fa-arrow-right {
+    margin-top: 9px;
+}
+
+.btn-prev {
+    border: 1;
+}
+
+
+/* Testi Review */
+
+.review {
+    line-height: 1px
+}
+
+.review-info {
+    margin-top: 20px
+}
+
+.info-review {
+    margin-left: 60px;
+    border: 1px;
+    border-radius: 3px;
+    width: 300px
+}
+
+.box {
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 4px;
+}
+
+.review {
+    font-family: "Avenir-Mediuum";
+    font-style: "roman";
+    font-size: 12px;
+}
+
+.testi-info {
+    margin-top: 14px;
+    margin-left: 10px;
+    line-height: 30px;
+}
+
+.card-text {
+    font-family: avenir-medium;
+    font-size: 13px
+}
+
+.all-review {
+    margin-top: 20px;
+    padding-left: 60px;
+}
+
+
+/* Subscribe */
+
+
+/* button {
+    background-color: #47b2e4;
+    border: 0;
+    padding: 12px 34px;
+    color: #fff;
+    transition: 0.4s;
+    border-radius: 10px;
+    margin-left: 800px;
+    height: 35px;
+    margin-top: -080px
+}
+
+button[type=submit]:hover {
+    background: #34d308;
+} */
+
+
+/*  */
+
+
+/* .subscribe {
+    margin-top: 10px;
+}
+
+.subs {
+    width: 490px;
+    height: 43px;
+    border-radius: 10px;
+    border-color: #796767;
+    margin-left: 315px;
+} */
+
+.klik {
+    font-family: Poppins;
+    border-radius: 10px;
+    color: #FFFFFF;
+    background-color: #F55F1D;
+    border-color: #F55F1D;
+    font-size: 13px;
+    height: 50px;
+    width: 90px;
+}
+
+.klik:hover {
+    background-color: #F55F1D;
+    border-color: #F55F1D;
+}
+
+h4 {
+    font-family: Poppins;
+    color: #20B15A;
+}
+
+h2 {
+    font-family: Poppins;
+    color: #000000;
+    Line-height: 40px;
+}
+
+.please {
+    font-family: Avenir;
+    color: #8B8B8B;
+    font-size: 12px;
+}
+
+ ::placeholder {
+    color: #8B8B8B;
+    font-family: Avenir;
+}
+
+.border-dark {
+    border-radius: 10px;
+    height: 50px;
+}
+
+.input-group {
+    width: 600px;
+    margin-left: 250px
+}
+
+
+/* FOOTER */
+
+.icons {
+    margin-left: 5px;
+    text-decoration: none;
+    padding: 15px;
+    background-color: #20B15A;
+    width: 30px;
+    height: 30px;
+}
+
+.social {
+    margin-right: 165px;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+.quick {
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-left: 19px
+}
+
+.link {
+    font-family: Avenir;
+    font-size: 13px;
+    margin-top: -5px
+}
+
+.link a {
+    text-decoration: none;
+    color: #000000;
+    Line-height: 30px;
+}
+
+.address {
+    font-family: Avenir;
+    font-size: 13px;
+    color: #000000;
+    Line-height: 20px;
+    margin-top: 20px
+}
+
+.copyright {
+    font-family: avenir;
+    font-size: 13px;
+    color: #000000;
+    margin-top: 25px;
+    margin-left: 4px
+}
+
+.all-review .info-review {
+    position: relative;
+    box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
+    padding: 30px;
+    border-radius: 5px;
+    background: #fff;
+    transition: 0.5s;
+    height: 100%;
+}
+
+.all-review .info-review:hover {
+    transform: translateY(-10px);
+}
+
+
+/* Animasi IMG oke */
+
+.img-oke .animated {
+    animation: up-down 2s ease-in-out infinite alternate-reverse both;
+}
+
+@keyframes up-down {
+    0% {
+        transform: translateY(10px);
+    }
+    100% {
+        transform: translateY(-10px);
+    }
+}
+
+
+/*  */
+
+.clients {
+    padding: 12px 0;
+    text-align: center;
+}
+
+.clients img {
+    max-width: 45%;
+    transition: all 0.4s ease-in-out;
+    display: inline-block;
+    padding: 15px 0;
+    filter: grayscale(100);
+}
+
+.clients img:hover {
+    filter: none;
+    transform: scale(1.1);
+}
+
+@media (max-width: 768px) {
+    .clients img {
+        max-width: 40%;
+    }
+}
